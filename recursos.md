@@ -22,6 +22,7 @@
 * [TAW](https://www.tawdis.net/)
 * [WAVE: Web Accessibility Evaluation Tool](http://wave.webaim.org/)
 * [Cynthia Says](http://www.cynthiasays.com/)
+* [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc)
 * [Functional Accessibility Evaluator (FAE)](https://fae.disability.illinois.edu/anonymous/?Anonymous%20Report=/)
 * [eXaminator](http://examinator.ws/)
 * [508 Checker](http://www.508checker.com/)
@@ -37,11 +38,19 @@
 * [Color safe](http://colorsafe.co/)
 * [Tanaguru contrast finder](http://contrast-finder.tanaguru.com/)
 * [PDF Accessibility Checker (PAC 3)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
+* [Photosensitive Epilepsy Analysis Tool (PEAT)](http://trace.wisc.edu/peat)
+* [INFLESZ](https://legibilidad.blogspot.com/2015/01/el-programa-inflesz.html)
 ## Simuladores
 ### Discapacidad visual
 * [NoCofee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+* [SEE](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 ### Dislexia
 * [Simulador de dislexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
+* [Funkify – Disability Simulator](https://chrome.google.com/webstore/detail/funkify-%E2%80%93-disability-simu/ojcijjdchelkddboickefhnbdpeajdjg)
+## Bibliotecas de JavaScript
+### Audio y vídeo
+* [Able Player](https://ableplayer.github.io/ableplayer/)
+* [OzPlayer](https://www.accessibilityoz.com/ozplayer/)
 ## Ayudas técnicas
 ### Lectores de pantalla
 * [NVDA](https://www.nvaccess.org/)
