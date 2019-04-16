@@ -26,7 +26,8 @@
 ](http://www.eclipse.org/actf/downloads/tools/aDesigner/index.php)
 * [ainspector](https://code.google.com/archive/p/ainspector/)
 * [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-
+### Validación de aspectos concretos
+* [Color contrast checker](https://webaim.org/resources/contrastchecker/)
 ## Simuladores
 ### Discapacidad visual
 * [NoCofee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
