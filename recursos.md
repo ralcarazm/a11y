@@ -30,12 +30,18 @@
 * [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 ### Validación de aspectos concretos
 * [Color contrast checker](https://webaim.org/resources/contrastchecker/)
+* [PDF Accessibility Checker (PAC 3)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 ## Simuladores
 ### Discapacidad visual
 * [NoCofee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 ### Dislexia
 * [Simulador de dislexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
-
+## Ayudas técnicas
+### Lectores de pantalla
+* [NVDA](https://www.nvaccess.org/)
+* [JAWS](https://www.freedomscientific.com/products/software/jaws/)
+### Magnificadores
+* [ZoomText](https://www.zoomtext.com/)
 * []()
 * []()
 * []()
