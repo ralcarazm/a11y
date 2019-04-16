@@ -22,6 +22,7 @@
 * [Cynthia Says](http://www.cynthiasays.com/)
 * [Functional Accessibility Evaluator (FAE)](https://fae.disability.illinois.edu/anonymous/?Anonymous%20Report=/)
 * [eXaminator](http://examinator.ws/)
+* [508 Checker](http://www.508checker.com/)
 #### De escritorio
 * [Tanaguru](http://www.tanaguru.com/en/)
 * [ACTF aDesigner
@@ -30,6 +31,7 @@
 * [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 ### Validación de aspectos concretos
 * [Color contrast checker](https://webaim.org/resources/contrastchecker/)
+* [Tanaguru contrast finder](http://contrast-finder.tanaguru.com/)
 * [PDF Accessibility Checker (PAC 3)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 ## Simuladores
 ### Discapacidad visual
@@ -40,9 +42,10 @@
 ### Lectores de pantalla
 * [NVDA](https://www.nvaccess.org/)
 * [JAWS](https://www.freedomscientific.com/products/software/jaws/)
-### Magnificadores
+### Magnificadores de texto
 * [ZoomText](https://www.zoomtext.com/)
-* []()
-* []()
+## Ejemplos de sitios web accesibles y buenas prácticas
+* [Observatorire Accessibilite (have an overview of the accessibility of a large set of websites)](http://observatoire-accessibilite.org/)
+* [KBAccess (database of good and bad examples of web accessibility)](http://www.kbaccess.org/)
 * []()
 * []()
