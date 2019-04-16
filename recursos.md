@@ -45,6 +45,7 @@
 ### Discapacidad visual
 * [NoCofee vision simulator](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 * [SEE](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
+* [Coblis, Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 ### Dislexia
 * [Simulador de dislexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [Funkify – Disability Simulator](https://chrome.google.com/webstore/detail/funkify-%E2%80%93-disability-simu/ojcijjdchelkddboickefhnbdpeajdjg)
