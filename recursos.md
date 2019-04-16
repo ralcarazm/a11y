@@ -1,4 +1,6 @@
 # Accesibilidad web - Recursos
+## Legislación
+* [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público](https://www.boe.es/eli/es/rd/2018/09/07/1112)
 ## Guías, normativas, recomendaciones y directrices
 ### Generalistas
 * [Normas de accesibilidad](http://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_normativa/pae_eInclusion_Normas_Accesibilidad.html)
