@@ -1,6 +1,8 @@
 # Accesibilidad web - Recursos
 ## Guías, normativas, recomendaciones y directrices
 ### Generalistas
+* [Normas de accesibilidad](http://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_normativa/pae_eInclusion_Normas_Accesibilidad.html  
+)
 ### Dislexia
 * [Dyslexia style guide
 ](http://www.bdadyslexia.org.uk/common/ckeditor/filemanager/userfiles/About_Us/policies/Dyslexia_Style_Guide.pdf)
