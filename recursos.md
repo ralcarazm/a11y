@@ -33,6 +33,8 @@
 * [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 ### Validación de aspectos concretos
 * [Color contrast checker](https://webaim.org/resources/contrastchecker/)
+* [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
+* [Color safe](http://colorsafe.co/)
 * [Tanaguru contrast finder](http://contrast-finder.tanaguru.com/)
 * [PDF Accessibility Checker (PAC 3)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 ## Simuladores
@@ -49,5 +51,3 @@
 ## Ejemplos de sitios web accesibles y buenas prácticas
 * [Observatorire Accessibilite (have an overview of the accessibility of a large set of websites)](http://observatoire-accessibilite.org/)
 * [KBAccess (database of good and bad examples of web accessibility)](http://www.kbaccess.org/)
-* []()
-* []()
