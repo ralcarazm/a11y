@@ -62,3 +62,5 @@
 ## Ejemplos de sitios web accesibles y buenas prácticas
 * [Observatorire Accessibilite (have an overview of the accessibility of a large set of websites)](http://observatoire-accessibilite.org/)
 * [KBAccess (database of good and bad examples of web accessibility)](http://www.kbaccess.org/)
+## Bibliografía recomendada
+* Pickering, Heydon (2016). [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns-by-heydon-pickering-ebook)
