@@ -63,6 +63,9 @@
 * [Observatorire Accessibilite (have an overview of the accessibility of a large set of websites)](http://observatoire-accessibilite.org/)
 * [KBAccess (database of good and bad examples of web accessibility)](http://www.kbaccess.org/)
 * [BOE](https://www.boe.es)
+* [Gobierno de Canadá](https://www.canada.ca/en.html)
+* [WebAIM](https://webaim.org/)
+* [Vision Australia](https://www.visionaustralia.org/)
 ## Bibliografía recomendada
 * Cunningham, Katie (2012). *[Accessibility handbook: making 508 websites for everyone](http://the-eye.eu/public/Books/IT%20Various/accessibility_handbook.pdf)*. Beijing: O'Reilly.
 * Kalbag, Laura (2017). *[Accessibility for everyone](https://abookapart.com/products/accessibility-for-everyone)*. New York: A Book Apart.
