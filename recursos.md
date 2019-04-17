@@ -65,6 +65,6 @@
 ## Bibliografía recomendada
 * Cunningham, Katie (2012). *[Accessibility handbook: making 508 websites for everyone](http://the-eye.eu/public/Books/IT%20Various/accessibility_handbook.pdf)*. Beijing: O'Reilly.
 * Kalbag, Laura (2017). *[Accessibility for everyone](https://abookapart.com/products/accessibility-for-everyone)*. New York: A Book Apart.
-* Pickering, Heydon (2016). *[Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns-by-heydon-pickering-ebook)*.
+* Pickering, Heydon (2016). *[Inclusive design patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns-by-heydon-pickering-ebook)*.
 * Revilla Muñoz, Olga; Carreras Montoto, Olga (2019). *[Accesibilidad web: WCAG 2.1 de forma sencilla](http://wcag2madeeasy.com/libro-accesibilidad-web.html)*. Itakora.
 
