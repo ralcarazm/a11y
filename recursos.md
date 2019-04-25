@@ -7,6 +7,7 @@
 * [Directrius per a l'accessibilitat del contingut web (WCAG), versió 2.0](https://www.w3.org/Translations/WCAG20-ca/) (traducción oficial)
 * [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 * [UNE 139803 Requisitos de accesibilidad para contenidos en la Web](https://www.dropbox.com/s/1dl5bx8a9lbpemv/Norma_UNE_139803_2012.pdf?dl=0)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria)
 ### Imágenes y gráficos
 * [Image description guidelines (Diagram Center)](http://diagramcenter.org/table-of-contents-2.html)
 ### Dislexia
