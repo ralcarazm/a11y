@@ -6,12 +6,15 @@
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 ## Legislación
 * [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público](https://www.boe.es/eli/es/rd/2018/09/07/1112)
+* [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.](https://www.boe.es/eli/es/rd/2018/09/07/1112)
 ## Guías, normativas, recomendaciones y directrices
 ### Generalistas
 * [Normas de accesibilidad](http://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_normativa/pae_eInclusion_Normas_Accesibilidad.html)
 * [Directrius per a l'accessibilitat del contingut web (WCAG), versió 2.0](https://www.w3.org/Translations/WCAG20-ca/) (traducción oficial)
 * [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 * [UNE 139803 Requisitos de accesibilidad para contenidos en la Web](https://www.dropbox.com/s/1dl5bx8a9lbpemv/Norma_UNE_139803_2012.pdf?dl=0)
+* [EN 301 549 V2.1.2 Accessibility requirements for ICT products and services](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf)
+* [UNE-EN 301549 V.1.1.2:2015 Requisitos de accesibilidad de productos y servicios TIC aplicables a la contratación pública en Europa](https://www.dropbox.com/s/hdj7497900q1cqw/UNE-EN_301549_V1_1_2_2015-OAW_v1_1.pdf?dl=0)
 * [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria)
 ### Imágenes y gráficos
 * [Image description guidelines (Diagram Center)](http://diagramcenter.org/table-of-contents-2.html)
