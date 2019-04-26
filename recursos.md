@@ -5,7 +5,6 @@
 ## Otras recopilaciones
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 ## Legislación
-* [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público](https://www.boe.es/eli/es/rd/2018/09/07/1112)
 * [Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.](https://www.boe.es/eli/es/rd/2018/09/07/1112)
 ## Guías, normativas, recomendaciones y directrices
 ### Generalistas
