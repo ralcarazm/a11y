@@ -1,4 +1,7 @@
 # Accesibilidad web - Recursos
+## Materiales del curso
+* [Presentación](https://www.dropbox.com/s/1j4gw8jf4eijp3a/accesibilidad_alumni_eina.pdf)
+* [Archivos blog](https://www.dropbox.com/s/1g015m9wwraleoq/blog.zip)
 ## Otras recopilaciones
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 ## Legislación
